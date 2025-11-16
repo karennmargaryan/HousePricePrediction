@@ -1,0 +1,25 @@
+Virtual Environments
+
+.venv/
+venv/
+*.env
+
+Python cache
+
+pycache/
+*.pyc
+
+Data files (keep raw data, but ignore large generated files)
+
+data/project.db
+
+IDE specific
+
+.idea/
+.vscode/
+
+Build artifacts
+
+build/
+dist/
+*.egg-info/

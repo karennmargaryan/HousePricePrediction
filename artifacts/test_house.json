@@ -1,0 +1,16 @@
+{
+    "date": "2014-05-02 00:00:00",
+    "bedrooms": 3.0,
+    "bathrooms": 1.00,
+    "sqft_living": 1180,
+    "sqft_lot": 5650,
+    "floors": 1.0,
+    "waterfront": 0,
+    "view": 0,
+    "condition": 3,
+    "sqft_above": 1180,
+    "sqft_basement": 0,
+    "yr_built": 1955,
+    "yr_renovated": 0,
+    "city": "Seattle"
+}
